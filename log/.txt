@@ -1,0 +1,9 @@
+2021-09-15 16:09:39 INFO  Main:11 - TestInfo
+2021-09-15 16:09:39 WARN  Main:12 - TestWarn
+2021-09-15 16:09:39 ERROR Main:13 - TestError
+2021-09-15 16:11:49 INFO  Main:12 - TestInfo
+2021-09-15 16:11:49 WARN  Main:13 - TestWarn
+2021-09-15 16:11:49 ERROR Main:14 - TestError
+2021-09-15 16:12:04 INFO  Main:12 - TestInfo
+2021-09-15 16:12:04 WARN  Main:13 - TestWarn
+2021-09-15 16:12:04 ERROR Main:14 - TestError
